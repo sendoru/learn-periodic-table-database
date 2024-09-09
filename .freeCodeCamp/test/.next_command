@@ -1,0 +1,292 @@
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+mkdir periodic_table
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch --help
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git rename branch master main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch -m main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+touch element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x ./element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+usr/bin/bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+which bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Init"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sha
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh H
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh H
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh H
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh Hydrogen
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh Hydrog
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh Hydro
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit --help
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git revert
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git revert HEAD
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git revert HEAD
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git checkout -- element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git revert HEAD
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git --help
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git reset --hard HEAD~1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git reset --hard HEAD~1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git reset --hard HEAD
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+rm -rf periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+mkdir periodic_table
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch -m main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x ./element.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Initial commit"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd periodic_table/
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "fix: make basic logic for searching"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git comit -m "fix: functionalize"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "fix: functionalize"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git state -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "fix: function not working"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "fix: function not working"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 1
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 2
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh 2
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./element.sh H
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git stage -A
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit "fix: finish all cases"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "fix: finish all cases"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a

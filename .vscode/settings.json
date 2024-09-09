@@ -9,7 +9,7 @@
     "source.fixAll": "explicit"
   },
   "editor.hover.enabled": false,
-  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
   "editor.parameterHints.enabled": false,
   "editor.quickSuggestions": {
@@ -90,8 +90,11 @@
     }
   },
   "workbench.iconTheme": null,
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "workbench.tips.enabled": false,
   "workbench.tree.renderIndentGuides": "none",
-  "zenMode.centerLayout": false
+  "zenMode.centerLayout": false,
+  "github.copilot.editor.enableCodeActions": true,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "github.copilot.renameSuggestions.triggerAutomatically": true
 }
